@@ -167,6 +167,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "developerconsole.android.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "orionwifi.area120.com"
   tier: TIER1
 }

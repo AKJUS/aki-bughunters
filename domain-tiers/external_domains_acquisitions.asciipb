@@ -621,15 +621,7 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "bookpoint.photomath.net"
-  tier: TIER1
-}
-domain: {
   fqdn: "cms.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "copper.photomath.net"
   tier: TIER1
 }
 domain: {
@@ -644,32 +636,8 @@ domain: {
   fqdn: "dcms.photomath.net"
   tier: TIER1
 }
-domain {
-  fqdn: "dcopper.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dfeeder.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "didp.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dportal.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dproblem-lifecycle.photomath.net"
-  tier: TIER1
-}
 domain: {
   fqdn: "dsnom.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dsw.photomath.net"
   tier: TIER1
 }
 domain: {
@@ -1337,10 +1305,6 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "dbhapi.photomath.com"
-  tier: TIER2
-}
-domain: {
   fqdn: "dninjask.photomath.com"
   tier: TIER2
 }
@@ -1521,15 +1485,7 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "bhapi.photomath.net"
-  tier: TIER2
-}
-domain: {
   fqdn: "dadp.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dbhapi.photomath.net"
   tier: TIER2
 }
 domain: {
@@ -4088,14 +4044,6 @@ domain: {
 }
 domain: {
   fqdn: "transit.sidewalklabs.com"
-  tier: TIER3
-}
-domain: {
-  fqdn: "dtpr.dev"
-  tier: TIER3
-}
-domain: {
-  fqdn: "process.dtpr.dev"
   tier: TIER3
 }
 domain: {
