@@ -523,10 +523,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Vertex SDK
-  tier: Tier 1
-}
-product: {
   name: GPUs
   tier: Tier 2
 }
