@@ -191,6 +191,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "android.google.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "baseline.google.com"
   tier: TIER1
 }

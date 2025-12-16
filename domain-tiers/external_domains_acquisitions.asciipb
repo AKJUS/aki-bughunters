@@ -753,6 +753,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "bigsur.ai"
+  tier: TIER2
+}
+domain: {
   fqdn: "ordering.app"
   tier: TIER2
 }
@@ -2989,6 +2993,10 @@ domain: {
 domain: {
   fqdn: "pebble.watch"
   tier: TIER3
+}
+domain: {
+  fqdn: "getbigsur.ai"
+  tier: TIER4
 }
 domain: {
   fqdn: "_validate_domain.spaceship.airforce"
