@@ -1895,6 +1895,16 @@ domain: {
   tier: TIER3
 }
 domain: {
+  fqdn: "gcr-staging.sandbox.google.com"
+  # This is the staging version of the TIER4 gcr.io domain, but is required to be TIER2 because it ends in google.com.
+  tier: TIER2
+}
+domain: {
+  fqdn: "us-gcr-staging.sandbox.google.com"
+  # This is the staging version of the TIER4 gcr.io domain, but is required to be TIER2 because it ends in google.com.
+  tier: TIER2
+}
+domain: {
   fqdn: "create.meme"
   tier: TIER3
 }
